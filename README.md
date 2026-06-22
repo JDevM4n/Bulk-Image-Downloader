@@ -50,7 +50,7 @@ Para clonar y correr este proyecto localmente:
 
 ```bash
 # Clonar el repositorio
-git clone <URL_DE_TU_REPOSITORIO>
+git clone <https://github.com/JDevM4n/Bulk-Image-Downloader.git>
 
 # Entrar a la carpeta
 cd BulkImageDownloader
